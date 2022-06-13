@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'banzuke';
+
+  //　Properties
+  title = '算数番付';
+  currentPage = '';
+  
+
+
 }
